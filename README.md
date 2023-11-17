@@ -61,7 +61,12 @@ As a Software Engineer, I specialize in developing elegant solutions that not on
 - Continuous Learning: Staying updated on industry trends and new technologies to improve skills and knowledge
 - Critical Thinking: Analyzing and evaluating situations, making informed decisions, and anticipating potential issues
 
+</details>
 
+---
+<details>
+  <summary><b>📊 GitHub Stats </b></summary>
+<img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maria-zhuravleva&hide=html,&hide_border=true&title_color=5391FE&text_color=555">
 </details>
 
 ---
@@ -75,6 +80,12 @@ Exploring beyond the lines of code, I engage in activities that satisfy my adven
 - **Hiking:** Exploring scenic trails, capturing nature's beauty through each step
 - **Photography:** Freezing moments in time, telling stories through the lens
 
+</details>
+
+---
+#### 🔍 Where to Find Me 
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/kalininaaa/)](https://www.instagram.com/kalininaaa/)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/mariia-zhuravleva)](https://www.linkedin.com/in/mariia-zhuravleva)
 
 
 
