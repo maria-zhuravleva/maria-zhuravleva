@@ -1,4 +1,4 @@
-# Hello there, I'm Mariia 👩‍💻
+# Hello there, I'm Maria 👩‍💻
 
 I've transitioned from the world of content creation to the realm of Software Engineering. With a keen eye for details and a passion for aesthetics, I enjoy writing code that not only solves problems, but adds a touch of creativity and precision.
 
